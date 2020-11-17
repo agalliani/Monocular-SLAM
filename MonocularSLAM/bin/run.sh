@@ -1,0 +1,2 @@
+./MonocularSLAM ../cfg/MonocularSLAM.cfg
+
